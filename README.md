@@ -1,5 +1,6 @@
 # Lo-Vibe.io
-~$git clone https://github.com/Jeruzel31/Lo-Vibe.github.io
+~$git clone https://github.com/Jeruzel31/Lo-Vibe.io
+
 ~$git add --all
 
 ~$git commit -m "Initial commit"
